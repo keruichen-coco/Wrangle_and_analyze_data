@@ -1,4 +1,4 @@
-# wrangle_and_analyze_data
+# Wrangle_and_analyze_data
 
 This project is for Udacity Data Analyst Nano Degree program. It aims to show the coding ability of data wrangling and reporting.
 
